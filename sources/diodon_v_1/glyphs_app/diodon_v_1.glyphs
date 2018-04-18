@@ -33032,7 +33032,7 @@ interpolationWeight = 200;
 instanceInterpolations = {
 "7F20675F-B4B1-45FA-B0F6-A97D5A641B97" = 1;
 };
-name = Bold;
+name = v_1;
 weightClass = Bold;
 },
 {
@@ -33040,14 +33040,14 @@ instanceInterpolations = {
 "1195BCD1-8D25-4D5E-8C85-FC733C7A5356" = 0.66667;
 "7F20675F-B4B1-45FA-B0F6-A97D5A641B97" = 0.33333;
 };
-name = Regular;
+name = v_3;
 },
 {
 interpolationWeight = 50;
 instanceInterpolations = {
 "1195BCD1-8D25-4D5E-8C85-FC733C7A5356" = 1;
 };
-name = Light;
+name = v_2;
 weightClass = Light;
 }
 );

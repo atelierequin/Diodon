@@ -1,8 +1,6 @@
 # Diodon
 The Diodon is a font inspired by a fish.
 ## Specimen
-![alt text](https://github.com/atelierequin/Diodon/blob/master/documentation/diodon_specimen_1.jpg « specimen_diodon »)
-
 ![specimen](/documentation/diodon_specimen_1.jpg?raw=true "Diodon")
 
 ![specimen](/documentation/diodon_specimen_2.jpg?raw=true "Diodon")

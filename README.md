@@ -1,6 +1,6 @@
 # Diodon
 
-![specimen](/documentation/diodon_specimen_1.jpg?raw=true "Diodon")
+![specimen](/documentation/diodon_specimen_1.png?raw=true "Diodon")
 
 ![specimen](/documentation/diodon_specimen_2.jpg?raw=true "Diodon")
 
